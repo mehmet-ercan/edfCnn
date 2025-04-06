@@ -134,3 +134,10 @@ shell/jina-wizard.sh
 *.iml
 .idea
 /.idea
+
+# dataset
+/physionet-sleep-data
+/NPZ_files
+*.pdf
+*.csv
+*.keras
